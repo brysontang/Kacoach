@@ -1,1 +1,4 @@
 data/
+rawData/
+my_go_data.json
+.DS_Store
